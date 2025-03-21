@@ -1,7 +1,7 @@
 function descargarContacto() {
     const vcardData = `BEGIN:VCARD
 VERSION:3.0
-FN:Ventas Medellin Cervalle
+FN:Ventas Medellín Cervalle
 TEL:+57 3118810870
 EMAIL;TYPE=WORK: ventasmedellín@cervalle.com 
 END:VCARD`;
