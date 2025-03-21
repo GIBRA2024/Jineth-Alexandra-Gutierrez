@@ -1,8 +1,7 @@
 function descargarContacto() {
     const vcardData = `BEGIN:VCARD
 VERSION:3.0
-N:Gutierrez;Jineth;Alexandra;;
-FN:Jineth Alexandra Gutierrez
+FN:Ventas Medellin Cervalle
 TEL:+57 3118810870
 EMAIL;TYPE=WORK: ventasmedellín@cervalle.com 
 END:VCARD`;
